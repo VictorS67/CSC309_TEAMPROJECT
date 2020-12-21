@@ -1,7 +1,7 @@
-# team36
+# RateMyUniversity
 
 ## Overview
-This is a project of CSC309 at University of Toronto made by JiaKai Shi, Minxuan Teng, Meilin Yang and Jiayi Zeng. There's a deployed website https://afternoon-cove-20429.herokuapp.com/ on herokuapp.com which serves only for academic purposes. 
+This is a project of CSC309 at University of Toronto made by Jiakai Shi, Minxuan Teng, Meilin Yang and Jiayi Zeng. There's a deployed website https://afternoon-cove-20429.herokuapp.com/ on herokuapp.com which serves only for academic purposes. 
 
 Our website provides a platform for rating universities all over the world. prospective students would be able to see rankings of schools they are deciding on. The ratings and comments students assign to their universities gives prospective students a more detailed and authentic view of the universities.
 
